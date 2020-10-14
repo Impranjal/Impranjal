@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AIOT
 - 💬 Ask me about data science
 - 📫 How to reach me: mail me at pranjalsingh2399@gmail.com
--
--->
+
