@@ -3,10 +3,10 @@
 
 About Me
 
-- 🔭 I’m currently working on multilingual toxicity analysis
-- 🌱 I’m currently learning reinforcement learning
+- 🔭 I’m currently working on Multilingual toxicity Analysis on OSN
+- 🌱 I’m currently learning Reinforcement learning
 - 👯 I’m looking to collaborate on NLP
 - 🤔 I’m looking for help with AIOT
 - 💬 Ask me about Data science
-- 📫 How to reach me: mail me at pranjalsingh2399@gmail.com
+- 📫 How to reach me: Mail me at pranjalsingh2399@gmail.com
 
