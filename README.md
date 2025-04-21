@@ -8,5 +8,5 @@ About Me
 - 👯 I’m looking to collaborate on NLP
 - 🤔 I’m looking for help with AIOT
 - 💬 Ask me about Data science
-- 📫 How to reach me: Mail me at pranjalsingh2399@gmail.com
+- 📫 How to reach me: Mail me at pranjalsingh2399@gmail.com.
 
